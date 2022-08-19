@@ -23,6 +23,8 @@ you can attach security groups or leave to aws as well
 
 ![image](https://user-images.githubusercontent.com/85988020/185546666-38c21c70-e42b-44d3-b35a-92bb51d665a5.png)
 
+## please keep in mind before choosing security group:
+
 ![image](https://user-images.githubusercontent.com/85988020/185546988-8a7b19bf-3524-4d79-8772-b25a4a1903ad.png)
 
 ![image](https://user-images.githubusercontent.com/85988020/183419366-784b1b09-f372-4f23-9910-95d13b3e2c92.png)
